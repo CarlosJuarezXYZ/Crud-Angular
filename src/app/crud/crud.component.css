@@ -1,0 +1,28 @@
+.crud{
+    border-radius: 4px;
+    margin-top: 20px;
+    padding: 30px;
+    background-color: #fff;
+}
+
+.form-group{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col-sm-8 h2{
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.text-center{
+    margin-bottom: 20px;
+}
+
+.update h2{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
